@@ -158,4 +158,3 @@ Heartfelt thanks to all contributors who have played a role in improving and enh
 [![نمایش ویدیو](https://github.com/saeed-94/FreeRTOS_USART/assets/62347559/b0f5943f-8641-4df6-a0c1-0fe54061ab87)
 
 
-[تماشای ویدئوی نمایش پروژه](لینک_به_ویدئو_نمایش)
