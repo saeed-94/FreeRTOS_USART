@@ -70,15 +70,8 @@ To execute the application, follow the instructions provided in the "Usage" sect
 ![Schematic Diagram](/Shematic.png)
 
 ## Project Demonstration Video
+[![Watch the video](https://github.com/saeed-94/FreeRTOS_USART/assets/62347559/b0f5943f-8641-4df6-a0c1-0fe54061ab87)
 
-[Watch Project Demonstration](/Video.mkv)
-## Video Demonstration
-<video width="٪100" height="100" controls>
-  <source src="/Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-[![Watch the video](/Shematic.png)](/Video.mp4)
 
 
 ## Acknowledgments
@@ -159,6 +152,10 @@ Heartfelt thanks to all contributors who have played a role in improving and enh
 
 ![نمایه شماتیک](/Shematic.png)
 
+
 ## ویدئوی نمایش پروژه
+
+[![نمایش ویدیو](https://github.com/saeed-94/FreeRTOS_USART/assets/62347559/b0f5943f-8641-4df6-a0c1-0fe54061ab87)
+
 
 [تماشای ویدئوی نمایش پروژه](لینک_به_ویدئو_نمایش)
